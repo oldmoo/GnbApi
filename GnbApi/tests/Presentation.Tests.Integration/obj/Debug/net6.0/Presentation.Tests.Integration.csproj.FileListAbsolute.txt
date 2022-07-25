@@ -2,7 +2,6 @@ C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\tests\Presentation.Tests.Integratio
 C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\tests\Presentation.Tests.Integration\bin\Debug\net6.0\testhost.dll
 C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\tests\Presentation.Tests.Integration\bin\Debug\net6.0\Presentation.deps.json
 C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\tests\Presentation.Tests.Integration\bin\Debug\net6.0\Presentation.runtimeconfig.json
-C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\tests\Presentation.Tests.Integration\bin\Debug\net6.0\appsettings.docker.json
 C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\tests\Presentation.Tests.Integration\bin\Debug\net6.0\appsettings.json
 C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\tests\Presentation.Tests.Integration\bin\Debug\net6.0\appsettings.local.json
 C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\tests\Presentation.Tests.Integration\bin\Debug\net6.0\Presentation.exe
