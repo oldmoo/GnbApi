@@ -1,0 +1,15 @@
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\bin\Debug\net6.0\Application.dll
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\bin\Debug\net6.0\Application.pdb
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\Pape\Documents\Skills\GnbApi\GnbApi\src\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
